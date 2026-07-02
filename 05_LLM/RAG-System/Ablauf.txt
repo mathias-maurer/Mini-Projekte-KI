@@ -1,0 +1,8 @@
+
+- Schüler-Voraussetzungen:
+  Python: Schleifen, Verzweigungen, Arrays/Listen, Funktionen
+
+- Ablauf:
+  1. Präsentation: Einführung-RAG.pptx
+  2. RAG.ipynb selbständig bearbeiten
+     (ggf. auch gemeinsam)
