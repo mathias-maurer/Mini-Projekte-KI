@@ -1,0 +1,1 @@
+Hier müssen die Bilder aus Kaggle in den jeweiligen Ordnern eingefügt werden.
